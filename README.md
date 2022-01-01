@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Ansem-chaieb/Ansem-chaieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src ="about_me.png" alt = "Bassmalah" class="center"></p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+<img src="giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Ansem-chaieb&theme=onedark" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ansem-chaieb&theme=onedark" alt="Most Used Languages">
+</p>
+
+<p align="center">
+<img src="giphy_1.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>Contribution Graph</b></i><br><br>
+<a href="https://github.com/Ansem-chaieb"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ansem-chaieb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
+<details>
+<summary> Connect with me🤝: </summary>  
+<br/>
+<a href="https://www.linkedin.com/in/ansem-chaieb-4a808b193/">
+  <img align="left" alt="Dave's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
+</a>
+<br/>
+</details>
