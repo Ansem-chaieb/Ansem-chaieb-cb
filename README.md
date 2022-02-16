@@ -1,13 +1,14 @@
 
-<p align="center"><img src ="about_me.png" alt = "Bassmalah" class="center"></p>
+<p align="center"><img src ="https://github.com/Ansem-chaieb/Ansem/blob/main/ansem.gif" alt = "Bassmalah" class="center"></p>
 
 
 
 <p align="center">
 <img src="giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats...</b></i><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Ansem-chaieb&theme=onedark" alt="GitHub Status"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ansem-chaieb&theme=onedark" alt="Most Used Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Ansem-chaieb&theme=yeblu" alt="GitHub Status"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ansem-chaieb&theme=yeblu" alt="Most Used Languages">
 </p>
+
 
 <details>
 <summary> Connect with me🤝: </summary>  
